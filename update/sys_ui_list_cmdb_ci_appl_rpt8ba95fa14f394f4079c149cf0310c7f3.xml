@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cmdb_ci_appl" version="2" view="RPT8ba95fa14f394f4079c149cf0310c7f3">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="cmdb_ci_appl" element="NULL" name="cmdb_ci_appl" parent="NULL" relationship="NULL" sys_domain="global" view="4fa95fa14f394f4079c149cf0310c7f8">07a9dfe14f394f4079c149cf0310c79c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>mike.reams@coxinc.com</sys_created_by>
+            <sys_created_on>2017-10-14 09:45:38</sys_created_on>
+            <sys_id>8ba9dfe14f394f4079c149cf0310c79c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mike.reams@coxinc.com</sys_updated_by>
+            <sys_updated_on>2017-10-14 09:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_atrium_product_name</element>
+            <list_id display_value="cmdb_ci_appl" element="NULL" name="cmdb_ci_appl" parent="NULL" relationship="NULL" sys_domain="global" view="4fa95fa14f394f4079c149cf0310c7f8">07a9dfe14f394f4079c149cf0310c79c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>mike.reams@coxinc.com</sys_created_by>
+            <sys_created_on>2017-10-14 09:45:38</sys_created_on>
+            <sys_id>0fa9dfe14f394f4079c149cf0310c79c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mike.reams@coxinc.com</sys_updated_by>
+            <sys_updated_on>2017-10-14 09:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>install_status</element>
+            <list_id display_value="cmdb_ci_appl" element="NULL" name="cmdb_ci_appl" parent="NULL" relationship="NULL" sys_domain="global" view="4fa95fa14f394f4079c149cf0310c7f8">07a9dfe14f394f4079c149cf0310c79c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>mike.reams@coxinc.com</sys_created_by>
+            <sys_created_on>2017-10-14 09:45:38</sys_created_on>
+            <sys_id>8fa9dfe14f394f4079c149cf0310c79c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mike.reams@coxinc.com</sys_updated_by>
+            <sys_updated_on>2017-10-14 09:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="cmdb_ci_appl" element="NULL" name="cmdb_ci_appl" parent="NULL" relationship="NULL" sys_domain="global" view="4fa95fa14f394f4079c149cf0310c7f8">07a9dfe14f394f4079c149cf0310c79c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>mike.reams@coxinc.com</sys_created_by>
+            <sys_created_on>2017-10-14 09:45:38</sys_created_on>
+            <sys_id>03a9dfe14f394f4079c149cf0310c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mike.reams@coxinc.com</sys_updated_by>
+            <sys_updated_on>2017-10-14 09:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="cmdb_ci_appl" element="NULL" name="cmdb_ci_appl" parent="NULL" relationship="NULL" sys_domain="global" view="4fa95fa14f394f4079c149cf0310c7f8">07a9dfe14f394f4079c149cf0310c79c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>mike.reams@coxinc.com</sys_created_by>
+            <sys_created_on>2017-10-14 09:45:38</sys_created_on>
+            <sys_id>83a9dfe14f394f4079c149cf0310c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mike.reams@coxinc.com</sys_updated_by>
+            <sys_updated_on>2017-10-14 09:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>department</element>
+            <list_id display_value="cmdb_ci_appl" element="NULL" name="cmdb_ci_appl" parent="NULL" relationship="NULL" sys_domain="global" view="4fa95fa14f394f4079c149cf0310c7f8">07a9dfe14f394f4079c149cf0310c79c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>mike.reams@coxinc.com</sys_created_by>
+            <sys_created_on>2017-10-14 09:45:38</sys_created_on>
+            <sys_id>07a9dfe14f394f4079c149cf0310c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mike.reams@coxinc.com</sys_updated_by>
+            <sys_updated_on>2017-10-14 09:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>install_date</element>
+            <list_id display_value="cmdb_ci_appl" element="NULL" name="cmdb_ci_appl" parent="NULL" relationship="NULL" sys_domain="global" view="4fa95fa14f394f4079c149cf0310c7f8">07a9dfe14f394f4079c149cf0310c79c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>mike.reams@coxinc.com</sys_created_by>
+            <sys_created_on>2017-10-14 09:45:38</sys_created_on>
+            <sys_id>87a9dfe14f394f4079c149cf0310c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mike.reams@coxinc.com</sys_updated_by>
+            <sys_updated_on>2017-10-14 09:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>operational_status</element>
+            <list_id display_value="cmdb_ci_appl" element="NULL" name="cmdb_ci_appl" parent="NULL" relationship="NULL" sys_domain="global" view="4fa95fa14f394f4079c149cf0310c7f8">07a9dfe14f394f4079c149cf0310c79c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>mike.reams@coxinc.com</sys_created_by>
+            <sys_created_on>2017-10-14 09:45:38</sys_created_on>
+            <sys_id>0ba9dfe14f394f4079c149cf0310c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mike.reams@coxinc.com</sys_updated_by>
+            <sys_updated_on>2017-10-14 09:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>owned_by</element>
+            <list_id display_value="cmdb_ci_appl" element="NULL" name="cmdb_ci_appl" parent="NULL" relationship="NULL" sys_domain="global" view="4fa95fa14f394f4079c149cf0310c7f8">07a9dfe14f394f4079c149cf0310c79c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>mike.reams@coxinc.com</sys_created_by>
+            <sys_created_on>2017-10-14 09:45:38</sys_created_on>
+            <sys_id>8ba9dfe14f394f4079c149cf0310c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mike.reams@coxinc.com</sys_updated_by>
+            <sys_updated_on>2017-10-14 09:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_system_role</element>
+            <list_id display_value="cmdb_ci_appl" element="NULL" name="cmdb_ci_appl" parent="NULL" relationship="NULL" sys_domain="global" view="4fa95fa14f394f4079c149cf0310c7f8">07a9dfe14f394f4079c149cf0310c79c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>mike.reams@coxinc.com</sys_created_by>
+            <sys_created_on>2017-10-14 09:45:38</sys_created_on>
+            <sys_id>0fa9dfe14f394f4079c149cf0310c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mike.reams@coxinc.com</sys_updated_by>
+            <sys_updated_on>2017-10-14 09:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_system_type</element>
+            <list_id display_value="cmdb_ci_appl" element="NULL" name="cmdb_ci_appl" parent="NULL" relationship="NULL" sys_domain="global" view="4fa95fa14f394f4079c149cf0310c7f8">07a9dfe14f394f4079c149cf0310c79c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>mike.reams@coxinc.com</sys_created_by>
+            <sys_created_on>2017-10-14 09:45:38</sys_created_on>
+            <sys_id>8fa9dfe14f394f4079c149cf0310c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mike.reams@coxinc.com</sys_updated_by>
+            <sys_updated_on>2017-10-14 09:45:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_ci_appl</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>mike.reams@coxinc.com</sys_created_by>
+            <sys_created_on>2017-10-14 09:45:38</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07a9dfe14f394f4079c149cf0310c79c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_appl</sys_name>
+            <sys_package display_value="Amazon Echo" source="x_snc_amazon_echo">101eb7da13a21200d0143d622244b063</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Amazon Echo">101eb7da13a21200d0143d622244b063</sys_scope>
+            <sys_update_name>sys_ui_list_cmdb_ci_appl_RPT8ba95fa14f394f4079c149cf0310c7f3</sys_update_name>
+            <sys_updated_by>mike.reams@coxinc.com</sys_updated_by>
+            <sys_updated_on>2017-10-14 09:45:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt8ba95fa14f394f4079c149cf0310c7f3" name="RPT8ba95fa14f394f4079c149cf0310c7f3">4fa95fa14f394f4079c149cf0310c7f8</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

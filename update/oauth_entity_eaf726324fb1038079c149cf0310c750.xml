@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>60</auth_code_lifespan>
+        <auth_url/>
+        <certificate_url/>
+        <client_id>aaf7263203b10380c23e93b00e8b4450</client_id>
+        <client_secret>nllBCEISNepbKsSE7vl6qA==</client_secret>
+        <client_uuid>6af726324fb1038079c149cf0310c750</client_uuid>
+        <comments/>
+        <default_grant_type>password</default_grant_type>
+        <id_token_lifespan>86400</id_token_lifespan>
+        <logo_url>http://coxenterprises.com/images/logo_ce.gif</logo_url>
+        <message_signature_lifespan>60</message_signature_lifespan>
+        <name>Amazon Alexa oAuth</name>
+        <oauth_api_script/>
+        <redirect_url>https://pitangui.amazon.com/api/skill/link/M1OAZRWR4SN9Q7,https://alexa.amazon.co.jp/api/skill/link/M1OAZRWR4SN9Q7,https://layla.amazon.com/api/skill/link/M1OAZRWR4SN9Q7</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <revoke_token_url/>
+        <salt/>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>mike.reams@coxinc.com</sys_created_by>
+        <sys_created_on>2017-10-18 03:22:11</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>eaf726324fb1038079c149cf0310c750</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Amazon Alexa oAuth</sys_name>
+        <sys_package display_value="Amazon Echo" source="x_snc_amazon_echo">101eb7da13a21200d0143d622244b063</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Amazon Echo">101eb7da13a21200d0143d622244b063</sys_scope>
+        <sys_update_name>oauth_entity_eaf726324fb1038079c149cf0310c750</sys_update_name>
+        <sys_updated_by>mike.reams@coxinc.com</sys_updated_by>
+        <sys_updated_on>2017-11-13 03:05:24</sys_updated_on>
+        <token_url/>
+        <type>client</type>
+        <user/>
+    </oauth_entity>
+</record_update>

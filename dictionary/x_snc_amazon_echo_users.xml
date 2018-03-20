@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Users" max_length="40" name="x_snc_amazon_echo_users" type="collection">
+        <element label="AWSID" max_length="300" name="awsid" type="string"/>
+        <element label="Is Registered" max_length="40" name="is_registered" type="boolean"/>
+        <element display="true" label="Registered Date" max_length="40" name="registered_date" type="glide_date_time"/>
+        <element label="Snow User Account" max_length="32" name="snow_user_account" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <index name="index">
+            <element name="snow_user_account"/>
+        </index>
+    </element>
+</database>

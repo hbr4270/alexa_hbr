@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_ic_req_item_aprvl_defn">
+    <sc_ic_req_item_aprvl_defn action="INSERT_OR_UPDATE">
+        <detail>Mike Reams</detail>
+        <group/>
+        <order>100</order>
+        <sc_ic_aprvl_type_defn/>
+        <sc_req_item display_value="RITM0062967">f5af56574f5283c079c149cf0310c709</sc_req_item>
+        <sys_class_name>sc_ic_req_item_aprvl_defn</sys_class_name>
+        <sys_created_by>mike.reams@coxinc.com</sys_created_by>
+        <sys_created_on>2017-11-13 12:32:55</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>31af56574f5283c079c149cf0310c718</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>user</sys_name>
+        <sys_package display_value="Amazon Echo" source="x_snc_amazon_echo">101eb7da13a21200d0143d622244b063</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Amazon Echo">101eb7da13a21200d0143d622244b063</sys_scope>
+        <sys_update_name>sc_ic_req_item_aprvl_defn_31af56574f5283c079c149cf0310c718</sys_update_name>
+        <sys_updated_by>mike.reams@coxinc.com</sys_updated_by>
+        <sys_updated_on>2017-11-13 12:32:55</sys_updated_on>
+        <type>user</type>
+        <user display_value="Mike Reams">9b75c2d44f458200d56642fd0210c724</user>
+    </sc_ic_req_item_aprvl_defn>
+</record_update>
